@@ -9,3 +9,7 @@
 # 刷机包
 
 [进入分区](https://github.com/IamapencilEk/Help-For-Lenovoz5/blob/main/2.md)
+
+# bug修复
+
+[Coolapk](https://www.coolapk.com/feed/33202742?shareKey=MzBiNGYwNDFlYWM4NjJjZWVmMTY~&shareUid=4693408&shareFrom=com.coolapk.market_12.3.2)
