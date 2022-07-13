@@ -25,3 +25,13 @@
 [Keystore-fix](https://github.com/IamapencilEk/Keystore-for-jd2018)
 
 感谢 我自己 提供的修补vendor镜像 ［滑稽］
+
+# 啊啊啊啊啊啊啊啊啊啊啊啊github下载速度太慢了甚至无反应怎么办
+
+试一下用github镜像［滑稽］速度瞬间快114514倍
+
+https://download.xn--p8jhe.tw/用户名/库/文件
+
+直接吧github.com/@#$@###@#+@@#/我是文件.文件
+
+改成https://download.xn--p8jhe.tw/@#$@###@#+@@#/我是文件.文件
