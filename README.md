@@ -22,5 +22,6 @@
 
 感谢[@Xmqor](http://www.coolapk.com/u/3551095)提供的汉化版Gvm
 
-[Keystore-fix]
+[Keystore-fix](https://github.com/IamapencilEk/Keystore-for-jd2018)
 
+感谢 我自己 提供的修补vendor镜像 ［滑稽］
