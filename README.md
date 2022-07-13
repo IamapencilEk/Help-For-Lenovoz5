@@ -4,6 +4,4 @@
 
 # 刷机工具（线刷/卡刷）
 
-1.卡刷 Twrp （3.3.0）
-
-https://github.com/IamapencilEk/twrp-jd2018/releases/tag/3.3
+[进入分区](https://github.com/IamapencilEk/twrp-jd2018/releases/tag/3.3)
