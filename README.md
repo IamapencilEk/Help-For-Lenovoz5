@@ -4,4 +4,4 @@
 
 # 刷机工具（线刷/卡刷）
 
-[进入分区](https://github.com/IamapencilEk/Help-For-Lenovoz5/blob/main/1.md）
+[进入分区](https://github.com/IamapencilEk/Help-For-Lenovoz5/blob/main/1.md)
