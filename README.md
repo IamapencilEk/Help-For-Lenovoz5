@@ -10,6 +10,17 @@
 
 [进入分区](https://github.com/IamapencilEk/Help-For-Lenovoz5/blob/main/2.md)
 
-# bug修复
+# bug修复方法
 
 [Coolapk](https://www.coolapk.com/feed/33202742?shareKey=MzBiNGYwNDFlYWM4NjJjZWVmMTY~&shareUid=4693408&shareFrom=com.coolapk.market_12.3.2)
+
+# bug修复工具
+
+[volte-fix](https://github.com/khrj/volte-fix)
+
+[g-visual-mod](https://www.coolapk.com/feed/29934213?shareKey=YjMwNjkzZDY0ZGZiNjJjZWYwNjU~&shareUid=4693408&shareFrom=com.coolapk.market_12.3.2)
+
+感谢[@Xmqor](http://www.coolapk.com/u/3551095)提供的汉化版Gvm
+
+[Keystore-fix]
+
