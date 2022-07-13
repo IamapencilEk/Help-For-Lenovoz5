@@ -8,4 +8,4 @@
 
 # 刷机包
 
-[进入分区]()
+[进入分区](https://github.com/IamapencilEk/Help-For-Lenovoz5/blob/main/2.md)
