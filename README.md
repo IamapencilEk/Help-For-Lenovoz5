@@ -16,7 +16,7 @@
 
 # bug修复工具
 
-[volte-fix](https://github.com/khrj/volte-fix)
+[volte-fix-vendor](https://github.com/khrj/volte-fix)
 
 [g-visual-mod](https://www.coolapk.com/feed/29934213?shareKey=YjMwNjkzZDY0ZGZiNjJjZWYwNjU~&shareUid=4693408&shareFrom=com.coolapk.market_12.3.2)
 
